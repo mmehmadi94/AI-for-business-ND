@@ -22,8 +22,8 @@ Train a model simply using 100 images from the “normal” class and 100 images
 2. Unbalanced binary classifier
 Next, use 100 images from the “normal” class, and add 200 more "pneumonia" class images. At this moment, the total count of images must be:
 
-“normal” class = 100
-"pneumonia" class = 300
+- “normal” class = 100
+- "pneumonia" class = 300
 The model will be trained on very unbalanced classes
 
 3. Binary classifier with dirty data
