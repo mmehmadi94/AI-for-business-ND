@@ -16,7 +16,7 @@ It is used [Kaggle chest x-ray dataset](https://www.kaggle.com/paultimothymooney
 
 Four different models will be trained using four variants of the pneumonia dataset. Recall that the dataset contains childrens' chest x-ray images, and that they are classified into two classes, "normal" and "pneumonia". The following sections describe the steps that are taken to create each model.
 
-1. Binary classifier to detect pneumonia using chest x-rays
+1) Binary classifier to detect pneumonia using chest x-rays
 Train a model simply using 100 images from the “normal” class and 100 images from the “pneumonia” class.
 
 2. Unbalanced binary classifier
